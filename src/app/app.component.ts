@@ -5,7 +5,7 @@ import { Component, OnInit, ViewChild, AfterViewInit, ElementRef } from '@angula
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
-export class AppComponent implements {
+export class AppComponent{
 /* 
   fromParent=" Reporting head from app";
   fromParentBody=" Reportimg body from app"; */
